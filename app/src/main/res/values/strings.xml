@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProximityRenaultMais</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="button_set_geofence">Set Geofence</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_details">Enter Geofence Details</string>
+    <string name="enter_radius">Enter Radius</string>
+</resources>
